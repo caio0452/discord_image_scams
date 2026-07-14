@@ -3,6 +3,8 @@
 
 This repo contains a collection of image scams that frequently go around on Discord, as well as minimal code to compare an image against a database of known scams.
 
+Accepting PRs of pics.
+
 ## Discord bot
 
 There are three punishment types in the config.json: timeout, kick and ban.
