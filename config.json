@@ -1,0 +1,21 @@
+{
+  "punishment_type": "timeout",
+  "max_visual_difference": 3,
+  "hashes": [
+    "87b0b4de7a4a4a69",
+    "9163e4946b3d364b",
+    "9163e6946a3d364b",
+    "9197576868666e6c",
+    "996689499976a69d",
+    "c478374ac4313b3f",
+    "c787deda187801f4",
+    "c7c23b3fc5cac430",
+    "cca7319cca673398",
+    "cca731dcca673198",
+    "d26c69d6926d5992",
+    "d26c6bd6926d1992",
+    "d313786d7c1b8706",
+    "dc8e91f16368ee82",
+    "ff44106f337c3350"
+  ]
+}
